@@ -1,0 +1,5 @@
+%{
+  "opentelemetry": {:hex, :opentelemetry, "0.4.0", "293729f014009b03a1a2c47e6367db6f280b41412faa5639f06dcce9733d18a6", [:rebar3], [{:opentelemetry_api, "~> 0.3.1", [hex: :opentelemetry_api, repo: "hexpm", optional: false]}], "hexpm", "f0eb4281f26879147322b0a6f1c457c57f3f1c4121cbff1f6056e4c98b1647a7"},
+  "opentelemetry_api": {:hex, :opentelemetry_api, "0.3.2", "b474cd21af5855a6dfff0912f26c7c40fbf1fd05b045d8e29fd53edeb4c3ec99", [:mix, :rebar3], [], "hexpm", "39b0ef74906e5d001ad244307337d168c594c2a05b67beaddad48ceaebfee352"},
+  "opentelemetry_zipkin": {:hex, :opentelemetry_zipkin, "0.2.0", "65016448bb121f9b469f6f9212f992832c8c1afc2b2420f7546fa60a3e76729a", [:rebar3], [{:opentelemetry, "~>0.4.0", [hex: :opentelemetry, repo: "hexpm", optional: false]}, {:opentelemetry_api, "~>0.3.1", [hex: :opentelemetry_api, repo: "hexpm", optional: false]}], "hexpm", "1cb02e9fb3b249c8d0bd98eac86034688d789cf6de6c8ad7054e62d7370ecb4f"},
+}

@@ -57,6 +57,9 @@ It's going to call beta that is going to call charlie.
 You might need to filter your query to see the results; 
 
 Useful Links: 
-https://zipkin.io
-https://blog.newrelic.com/product-news/what-is-opentelemetry/
-https://guycoding.medium.com/demystifying-distributed-tracing-in-elixir-via-open-telemetry-zipkin-and-elastic-search-1876c254162d
+
+ - https://zipkin.io
+ 
+ - https://blog.newrelic.com/product-news/what-is-opentelemetry/
+ 
+ - https://guycoding.medium.com/demystifying-distributed-tracing-in-elixir-via-open-telemetry-zipkin-and-elastic-search-1876c254162d
